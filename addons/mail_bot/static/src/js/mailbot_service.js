@@ -39,7 +39,7 @@ var MailBotService =  AbstractService.extend({
             return [];
         }
         var previews = [{
-            title: _t("OdooBot has a request"),
+            title: _t("Helper has a request"),
             imageSRC: "/mail/static/src/img/odoobot.png",
             status: 'bot',
             body:  _t("Enable desktop notifications to chat"),
