@@ -18,7 +18,7 @@ class Partner(models.Model):
     def get_mention_suggestions(self, search, limit=8):
         #add odoobot in mention suggestion when pinging in mail_thread
         [users, partners] = super(Partner, self).get_mention_suggestions(search, limit=limit)
-        if len(partners) + len(users) < limit and "odoobot".startswith(search.lower()):
+        if len(partners) + len(users) < limit and "bot".startswith(search.lower()):
             odoobot = self.env.ref("base.partner_root")
             if not any([elem['id'] == odoobot.id for elem in partners]):
                 if odoobot:
