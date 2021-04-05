@@ -1076,6 +1076,15 @@ class Database(http.Controller):
                 d['databases'] = [monodb]
         return env.get_template("database_manager.html").render(d)
 
+    @http.route('/web/database/selector', type='http', auth="none")
+    def selector(self, **kw):
+        request._cr = None
+        return self._render_template(manage=False)
+
+    @http.route('/web/database/manager', type='http', auth="none")
+    def manager(self, **kw):
+        request._cr = None
+        return self._render_template()
 
     @http.route('/web/database/create', type='http', auth="none", methods=['POST'], csrf=False)
     def create(self, master_pwd, name, lang, password, **post):
