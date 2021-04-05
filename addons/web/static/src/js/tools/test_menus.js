@@ -60,14 +60,14 @@
         // finding applications menus
         var $listOfAppMenuItems;
         if (isEnterprise) {
-            console.log("Odoo flavor: Enterprise");
+            console.log("Hive flavor: Enterprise");
             if (menu_id !== undefined) {
                 $listOfAppMenuItems = $('a.o_app.o_menuitem[data-menu=' + menu_id + ']');
             } else {
                 $listOfAppMenuItems = $('a.o_app.o_menuitem');
             }
         } else {
-            console.log("Odoo flavor: Community");
+            console.log("Hive flavor: Community");
             if (menu_id !== undefined) {
                 $listOfAppMenuItems = $('a.o_app[data-menu-id=' + menu_id + ']');
             } else {

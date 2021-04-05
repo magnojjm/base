@@ -25,7 +25,7 @@ var WKHTMLTOPDF_MESSAGES = {
     upgrade: _lt('You should upgrade your version of Wkhtmltopdf to at least 0.12.0 in order to ' +
                  'get a correct display of headers and footers as well as support for ' +
                  'table-breaking between pages.') + link,
-    workers: _lt('You need to start Odoo with at least two workers to print a pdf version of ' +
+    workers: _lt('You need to start Hive with at least two workers to print a pdf version of ' +
                  'the reports.'),
 };
 
