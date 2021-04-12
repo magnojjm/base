@@ -165,7 +165,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #875A7B;\">Odoo</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.Hive.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #875A7B;\">Hive</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -248,7 +248,7 @@ msgstr ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        저작권 : <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #875A7B;\">Odoo</a>\n"
+"        저작권 : <a target=\"_blank\" href=\"https://www.Hive.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #875A7B;\">Hive</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -604,8 +604,8 @@ msgstr "노트"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_record_sidebar
-msgid "Odoo Logo"
-msgstr "Odoo 로고"
+msgid "Hive Logo"
+msgstr "Hive 로고"
 
 #. module: portal
 #. openerp-web
@@ -961,8 +961,8 @@ msgstr "이메일을 보내려면 사용자 기본 설정에 이메일 주소가
 
 #. module: portal
 #: model:mail.template,subject:portal.mail_template_data_portal_welcome
-msgid "Your Odoo account at ${object.user_id.company_id.name}"
-msgstr "귀하의 Odoo 계정 ${object.user_id.company_id.name}"
+msgid "Your Hive account at ${object.user_id.company_id.name}"
+msgstr "귀하의 Hive 계정 ${object.user_id.company_id.name}"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_contact
@@ -1004,8 +1004,8 @@ msgstr "로그인됨"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_record_sidebar
-msgid "odoo"
-msgstr "odoo"
+msgid "Hive"
+msgstr "Hive"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_details

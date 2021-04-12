@@ -2817,8 +2817,8 @@ msgstr "예 : 등"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_variant_easy_edit_view
-msgid "e.g. Odoo Enterprise Subscription"
-msgstr "예 : Odoo 엔터프라이즈 구독"
+msgid "e.g. Hive Enterprise Subscription"
+msgstr "예 : Hive 엔터프라이즈 구독"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_view

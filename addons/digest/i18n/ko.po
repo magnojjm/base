@@ -173,12 +173,12 @@ msgid ""
 "            <table style=\"width: 100%; max-width: 600px; margin-top: 5px; border: 1px solid #e7e7e7;\">\n"
 "                <tr>\n"
 "                    <td style=\"border-collapse: collapse; background-color: #ffffff; line-height: 21px; padding: 0 20px 10px 20px; text-align: center;\"><br/>\n"
-"                        <div style=\"color: #3d466e; font-size: 16px; font-weight: 600; line-height: 23px;\">Run your business from anywhere with Odoo Mobile.</div>\n"
+"                        <div style=\"color: #3d466e; font-size: 16px; font-weight: 600; line-height: 23px;\">Run your business from anywhere with Hive Mobile.</div>\n"
 "                    </td>\n"
 "                </tr>\n"
 "                <tr>\n"
 "                    <td style=\"padding-bottom:20px;\">\n"
-"                        <div style=\"text-align: center;\"><a href=\"https://play.google.com/store/apps/details?id=com.odoo.mobile\" target=\"_blank\"><img src=\"/digest/static/src/img/google_play.png\" style=\"display: inline-block; height: 30px; margin-left: auto; margin-right: 12px;\"/></a><a href=\"https://itunes.apple.com/us/app/odoo/id1272543640\" target=\"_blank\"><img src=\"/digest/static/src/img/app_store.png\" style=\"display: inline-block; height: 30px; margin-left: 12px; margin-right: auto;\"/></a>\n"
+"                        <div style=\"text-align: center;\"><a href=\"https://play.google.com/store/apps/details?id=com.Hive.mobile\" target=\"_blank\"><img src=\"/digest/static/src/img/google_play.png\" style=\"display: inline-block; height: 30px; margin-left: auto; margin-right: 12px;\"/></a><a href=\"https://itunes.apple.com/us/app/Hive/id1272543640\" target=\"_blank\"><img src=\"/digest/static/src/img/app_store.png\" style=\"display: inline-block; height: 30px; margin-left: 12px; margin-right: auto;\"/></a>\n"
 "                        </div>\n"
 "                    </td>\n"
 "                </tr>\n"
@@ -196,7 +196,7 @@ msgid ""
 "                        <p style=\"font-size: 11px; margin-top: 10px;\">\n"
 "                            <strong>\n"
 "                                Sent by\n"
-"                                <a href=\"https://www.odoo.com\" style=\"text-decoration: none; color: #875A7B;\">Odoo</a> - <a href=\"/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}\" target=\"_blank\" style=\"color: #888888;\">Unsubscribe</a>\n"
+"                                <a href=\"https://www.Hive.com\" style=\"text-decoration: none; color: #875A7B;\">Hive</a> - <a href=\"/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}\" target=\"_blank\" style=\"color: #888888;\">Unsubscribe</a>\n"
 "                            </strong>\n"
 "                        </p>\n"
 "                    </td>\n"
@@ -326,12 +326,12 @@ msgstr ""
 "            <table style=\"width: 100%; max-width: 600px; margin-top: 5px; border: 1px solid #e7e7e7;\">\n"
 "                <tr>\n"
 "                    <td style=\"border-collapse: collapse; background-color: #ffffff; line-height: 21px; padding: 0 20px 10px 20px; text-align: center;\"><br/>\n"
-"                        <div style=\"color: #3d466e; font-size: 16px; font-weight: 600; line-height: 23px;\">Odoo 모바일과 함께 어디서나 사업을 진행하십시오.</div>\n"
+"                        <div style=\"color: #3d466e; font-size: 16px; font-weight: 600; line-height: 23px;\">Hive 모바일과 함께 어디서나 사업을 진행하십시오.</div>\n"
 "                    </td>\n"
 "                </tr>\n"
 "                <tr>\n"
 "                    <td style=\"padding-bottom:20px;\">\n"
-"                        <div style=\"text-align: center;\"><a href=\"https://play.google.com/store/apps/details?id=com.odoo.mobile\" target=\"_blank\"><img src=\"/digest/static/src/img/google_play.png\" style=\"display: inline-block; height: 30px; margin-left: auto; margin-right: 12px;\"/></a><a href=\"https://itunes.apple.com/us/app/odoo/id1272543640\" target=\"_blank\"><img src=\"/digest/static/src/img/app_store.png\" style=\"display: inline-block; height: 30px; margin-left: 12px; margin-right: auto;\"/></a>\n"
+"                        <div style=\"text-align: center;\"><a href=\"https://play.google.com/store/apps/details?id=com.Hive.mobile\" target=\"_blank\"><img src=\"/digest/static/src/img/google_play.png\" style=\"display: inline-block; height: 30px; margin-left: auto; margin-right: 12px;\"/></a><a href=\"https://itunes.apple.com/us/app/Hive/id1272543640\" target=\"_blank\"><img src=\"/digest/static/src/img/app_store.png\" style=\"display: inline-block; height: 30px; margin-left: 12px; margin-right: auto;\"/></a>\n"
 "                        </div>\n"
 "                    </td>\n"
 "                </tr>\n"
@@ -349,7 +349,7 @@ msgstr ""
 "                        <p style=\"font-size: 11px; margin-top: 10px;\">\n"
 "                            <strong>\n"
 "                                발송\n"
-"                                <a href=\"https://www.odoo.com\" style=\"text-decoration: none; color: #875A7B;\">Odoo</a> - <a href=\"/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}\" target=\"_blank\" style=\"color: #888888;\">미구독</a>\n"
+"                                <a href=\"https://www.Hive.com\" style=\"text-decoration: none; color: #875A7B;\">Hive</a> - <a href=\"/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}\" target=\"_blank\" style=\"color: #888888;\">미구독</a>\n"
 "                            </strong>\n"
 "                        </p>\n"
 "                    </td>\n"
@@ -627,8 +627,8 @@ msgstr "팁 설명"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_mail_2
-msgid "To reach your full potential with Odoo, have a look at our"
-msgstr "Odoo로 잠재력을 최대한 발휘하려면 저희를 보십시오"
+msgid "To reach your full potential with Hive, have a look at our"
+msgstr "Hive로 잠재력을 최대한 발휘하려면 저희를 보십시오"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
@@ -657,8 +657,8 @@ msgstr "매주"
 
 #. module: digest
 #: model:digest.digest,name:digest.digest_digest_default
-msgid "Weekly Stats in Odoo"
-msgstr "Odoo의 주간 통계"
+msgid "Weekly Stats in Hive"
+msgstr "Hive의 주간 통계"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_mail_0
@@ -681,8 +681,8 @@ msgstr "다음에서 성공적으로 탈퇴했습니다."
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
-msgid "You may want to add new computed fields with Odoo Studio:"
-msgstr "Odoo Studio에서 새로운 계산된 필드를 추가할 수 있습니다."
+msgid "You may want to add new computed fields with Hive Studio:"
+msgstr "Hive Studio에서 새로운 계산된 필드를 추가할 수 있습니다."
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_mail_2

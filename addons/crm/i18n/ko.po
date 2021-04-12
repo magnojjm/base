@@ -33,8 +33,8 @@ msgstr "# 회의"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "% (Estimated by Odoo)"
-msgstr "% (Odoo 추정)"
+msgid "% (Estimated by Hive)"
+msgstr "% (Hive 추정)"
 
 #. module: crm
 #: model_terms:digest.tip,tip_description:crm.digest_tip_crm_0
@@ -1806,10 +1806,10 @@ msgstr "읽지 않은 메시지 수"
 #. module: crm
 #: model_terms:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"Hive helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future revenues."
 msgstr ""
-"Odoo는 판매 파이프라인을 추적하여 잠재 매출을 추적하고\n"
+"Hive는 판매 파이프라인을 추적하여 잠재 매출을 추적하고\n"
 "                    향후 매출을 보다 정확하게 예측할 수 있도록 도와줍니다."
 
 #. module: crm
@@ -2817,8 +2817,8 @@ msgstr "예 : 제품 가격"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.odoo.com"
-msgstr "예 : https://www.odoo.com"
+msgid "e.g. https://www.geoproglobal.com"
+msgstr "예 : https://www.geoproglobal.com"
 
 #. module: crm
 #: code:addons/crm/models/crm_lead.py:0

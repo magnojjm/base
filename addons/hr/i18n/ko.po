@@ -255,7 +255,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=hr\" style=\"color: #875A7B;\">Odoo</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.hive.com?utm_source=db&amp;utm_medium=hr\" style=\"color: #875A7B;\">Hive</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -283,7 +283,7 @@ msgstr ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        저작권 : <a target=\"_blank\" href=\"https://www.odoo.com?utm_source=db&amp;utm_medium=hr\" style=\"color: #875A7B;\">Odoo</a>\n"
+"        저작권 : <a target=\"_blank\" href=\"https://www.hive.com?utm_source=db&amp;utm_medium=hr\" style=\"color: #875A7B;\">Hive</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -1821,11 +1821,11 @@ msgstr "읽지 않은 메시지 수"
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Hive's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves, recruitments, etc."
 msgstr ""
-"Odoo의 부서 구조는 부서별로 직원과 관련된 모든 서류, \n"
+"Hive의 부서 구조는 부서별로 직원과 관련된 모든 서류, \n"
 "                 즉 경비, 시간표, 휴가, 채용 등을 관리하는 데 \n"
 "                 사용됩니다."
 
@@ -2064,11 +2064,11 @@ msgstr "수익성이 있는"
 msgid ""
 "Programming Languages: Python &amp; JavaScript<br>Database: postgresql (with object relational\n"
 "                    mapping)<br>Collaboration platform: GitHub<br>Development model: open with external\n"
-"                    community<br>Framework: Odoo (ORM, Workflows, Report Engine, BI)"
+"                    community<br>Framework: Hive (ORM, Workflows, Report Engine, BI)"
 msgstr ""
 "프로그래밍 언어 : Python &amp; JavaScript<br> 데이터베이스 : postgresql (객체 관계형 매핑 포함)<br>\n"
 "협업 플랫폼 : GitHub<br> 개발 모델 : 외부 커뮤니티와 개방<br>\n"
-"프레임 워크 : Odoo (ORM, 워크 플로우, 보고서 엔진, BI)"
+"프레임 워크 : Hive (ORM, 워크 플로우, 보고서 엔진, BI)"
 
 #. module: hr
 #: model:ir.model,name:hr.model_hr_employee_public
@@ -2462,8 +2462,8 @@ msgstr "배지 ID는 고유해야 합니다. 이 ID는 이미 다른 직원에�
 #: model_terms:hr.job,website_description:hr.job_hrm
 #: model_terms:hr.job,website_description:hr.job_marketing
 #: model_terms:hr.job,website_description:hr.job_trainee
-msgid "The Odoo culture"
-msgstr "Odoo 문화"
+msgid "The Hive culture"
+msgstr "Hive 문화"
 
 #. module: hr
 #: code:addons/hr/models/hr_employee.py:0
@@ -2678,22 +2678,22 @@ msgstr "홀아비 또는 과부"
 #: model_terms:ir.actions.act_window,help:hr.act_employee_from_department
 #: model_terms:ir.actions.act_window,help:hr.hr_employee_public_action
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Hive employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""
-"Odoo 직원 화면을 간단히 보면, \n"
+"Hive 직원 화면을 간단히 보면, \n"
 "                   각 사람에게 필요한 모든 정보를 쉽게 찾을 수 있습니다. \n"
 "                   연락처 데이터, 직무, 가용성 등."
 
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the Hive employee screen, you\n"
 "               can easily find all the information you need for each person;\n"
 "               contact data, job position, availability, etc."
 msgstr ""
-"Odoo 직원 화면을 간단히 살펴보면 \n"
+"Hive 직원 화면을 간단히 살펴보면 \n"
 "                 각 개인에게 필요한 모든 정보를 쉽게 찾을 수 있습니다 : \n"
 "                 연락처 데이터, 직책, 가용성 등"
 

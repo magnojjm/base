@@ -786,9 +786,9 @@ msgstr "현재 버전을 삭제하면 저장하지 않은 모든 변경 사항�
 #: code:addons/web_editor/static/src/xml/ace.xml:0
 #, python-format
 msgid ""
-"If you edit and save this file, you will never receive updates from Odoo "
+"If you edit and save this file, you will never receive updates from Hive "
 "anymore unless you reset your customizations."
-msgstr "이 파일을 편집하고 저장하면 맞춤 설정을 재설정하지 않는 한 더 이상 Odoo로부터 업데이트를 받지 않습니다."
+msgstr "이 파일을 편집하고 저장하면 맞춤 설정을 재설정하지 않는 한 더 이상 Hive로부터 업데이트를 받지 않습니다."
 
 #. module: web_editor
 #. openerp-web
@@ -805,8 +805,8 @@ msgstr " 파일을 재설정하면 모든 맞춤 설정한 내용이 기본 파�
 #, python-format
 msgid ""
 "If you want to crop it, please first download it from the original source "
-"and upload it in Odoo."
-msgstr "자르려면 먼저 원본을 다운로드하여 Odoo에 업로드하십시오."
+"and upload it in Hive."
+msgstr "자르려면 먼저 원본을 다운로드하여 Hive에 업로드하십시오."
 
 #. module: web_editor
 #. openerp-web
@@ -2007,15 +2007,15 @@ msgstr "자동"
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.odoo.com/logo.png"
-msgstr "https://www.odoo.com/logo.png"
+msgid "https://www.Hive.com/logo.png"
+msgstr "https://www.Hive.com/logo.png"
 
 #. module: web_editor
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.odoo.com/mydocument"
-msgstr "https://www.odoo.com/mydocument"
+msgid "https://www.Hive.com/mydocument"
+msgstr "https://www.Hive.com/mydocument"
 
 #. module: web_editor
 #. openerp-web
