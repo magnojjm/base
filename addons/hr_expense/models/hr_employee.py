@@ -22,6 +22,11 @@ class Employee(models.Model):
         domain=_group_hr_expense_user_domain,
         help="User responsible of expense approval. Should be Expense approver.")
 
+    expense_ceo_id = fields.Many2one(
+        'res.users', string='Expense',
+        domain=_group_hr_expense_user_domain,
+        help="User responsible of expense approval. Should be Expense approver.")
+
     @api.onchange('parent_id')
     def _onchange_parent_id(self):
         super(Employee, self)._onchange_parent_id()
