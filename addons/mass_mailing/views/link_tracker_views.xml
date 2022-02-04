@@ -114,7 +114,7 @@
     <menuitem id="link_tracker_menu_mass_mailing"
         name="Link Tracker"
         parent="mass_mailing_configuration"
-        sequence="5"
+        sequence="-3"
         action="link_tracker.link_tracker_action"/>
 
 </odoo>

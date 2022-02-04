@@ -7,7 +7,7 @@
             id="menu_finance"
             groups="account.group_account_user,account.group_account_manager,account.group_account_invoice"
             web_icon="account,static/description/icon.png"
-            sequence="40"/>
+            sequence="-17"/>
 
         <menuitem id="menu_finance_receivables" name="Customers" parent="menu_finance" sequence="2"/>
         <menuitem id="menu_finance_payables" name="Vendors" parent="menu_finance" sequence="3"/>

@@ -262,7 +262,7 @@
             name="Live Chat"
             web_icon="im_livechat,static/description/icon.png"
             groups="im_livechat_group_user"
-            sequence="205"/>
+            sequence="-6"/>
 
         <menuitem
             id="support_channels"

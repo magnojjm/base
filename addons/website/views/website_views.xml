@@ -4,7 +4,7 @@
         <!-- Menu items -->
         <menuitem name="Website"
             id="menu_website_configuration"
-            sequence="9"
+            sequence="-12"
             groups="base.group_user"
             web_icon="website,static/description/icon.png"/>
 

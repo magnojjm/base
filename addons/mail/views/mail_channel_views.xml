@@ -208,7 +208,7 @@
         action="action_discuss"
         web_icon="mail,static/description/icon.png"
         groups="base.group_user"
-        sequence="1"/>
+        sequence="-22"/>
 
     <!--
         This menuitem will be activated by integrations modules (like github, twitter, ...). It
