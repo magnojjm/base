@@ -29,7 +29,7 @@ class Company(models.Model):
         return base64.b64encode(open(os.path.join(tools.config['root_path'], 'addons', 'base', 'static', 'img', 'res_company_logo.png'), 'rb') .read())
 
     @api.model
-    def _get_euro(self):
+    def _get_php(self):
         return self.env['res.currency.rate'].search([('rate', '=', 1)], limit=1).currency_id
 
     @api.model

@@ -7,7 +7,7 @@
     'summary': 'Chat, mail gateway and private channels',
     'description': "",
     'website': 'https://www.odoo.com/page/discuss',
-    'depends': ['base', 'base_setup', 'bus', 'web_tour'],
+    'depends': ['base', 'base_setup', 'bus', 'web_tour','sh_backmate_theme'],
     'data': [
         'wizard/invite_view.xml',
         'wizard/mail_compose_message_view.xml',
