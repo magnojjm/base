@@ -50,13 +50,15 @@
         .o_view_nocontent_smiling_face:before {
             @extend %o-nocontent-init-image;
             @include size(120px, 140px);
-            background: transparent url(/web/static/src/img/smiling_face.svg) no-repeat center;
+            background: transparent url(/web/static/src/img/easemart_logo.png) no-repeat center !important;
+            background-size: cover !important;
         }
 
         .o_view_nocontent_neutral_face:before {
             @extend %o-nocontent-init-image;
             @include size(120px, 140px);
-            background: transparent url(/web/static/src/img/neutral_face.svg) no-repeat center;
+            background: transparent url(/web/static/src/img/easemart_logo.png) no-repeat center !important;
+            background-size: cover !important;
         }
 
         .o_view_nocontent_empty_folder:before {
